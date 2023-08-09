@@ -4,7 +4,7 @@ Repositório conteúdos e artefatos da disciplina Sistemas Operacionais 2023/
 
 # AULAS
 
-https://joaochoma.notion.site/SEMANA-01-beb987d942dd4f358943389d144cfbb6?pvs=4
+https://joaochoma.notion.site/AULAS-SISTEMAS-OPERACIONAIS-de18047dfaa84ab18bc70cb2fa1c6152?pvs=4
 
 
 # ENTREGAS
