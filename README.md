@@ -10,3 +10,9 @@ https://joaochoma.notion.site/AULAS-SISTEMAS-OPERACIONAIS-de18047dfaa84ab18bc70c
 # ENTREGAS
 
 https://forms.gle/YbN3KEvTJT28xuBd7
+
+
+
+# SIMULADO
+
+https://forms.gle/UcsiH9CLnpJ3d4a26
